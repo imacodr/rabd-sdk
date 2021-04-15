@@ -1,0 +1,33 @@
+{
+  "name": "rabdapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imacodr",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "description": "A wrapper for the RABD API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imacodr/rabdAPI.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Discord",
+    "Roblox"
+  ],
+  "bugs": {
+    "url": "https://github.com/imacodr/rabdAPI/issues"
+  },
+  "homepage": "https://github.com/imacodr/rabdAPI#readme"
+}
