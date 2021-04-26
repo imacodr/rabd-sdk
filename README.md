@@ -1,4 +1,4 @@
-# RABD API
+# RABD SDK
 
 <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="JavaScript Style Guide"></a>
 <br>
@@ -17,15 +17,15 @@ A wrapper for the RABD REST API. Only made for `hub.rabd.space` endpoints at the
 ## Installation
 
 ```bash
-npm install rabdapi
+npm install @rabdhq/sdk
 ```
 
 or
 
 ```bash
-yarn add rabdapi
+yarn add @rabdhq/sdk
 ```
 
 ## Documentation
 
-Documentation for the rabdAPI package can be found at the [RABD Developer Hub](https://developer.rabd.space/)
+Documentation for the rabdSDK package can be found at the [RABD Developer Hub](https://developer.rabd.space/)
