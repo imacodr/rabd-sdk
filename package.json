@@ -24,7 +24,7 @@
   "description": "A wrapper for the RABD API",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imacodr/rabdAPI.git"
+    "url": "git+https://github.com/imacodr/rabd-sdk.git"
   },
   "keywords": [
     "REST",
@@ -33,7 +33,7 @@
     "Roblox"
   ],
   "bugs": {
-    "url": "https://github.com/imacodr/rabdAPI/issues"
+    "url": "https://github.com/imacodr/rabd-sdk/issues"
   },
-  "homepage": "https://github.com/imacodr/rabdAPI#readme"
+  "homepage": "https://github.com/imacodr/rabd-sdk#readme"
 }
