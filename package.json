@@ -7,7 +7,7 @@
     "dev": "nodemon --config nodemon.json src/test.ts",
     "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ship": "npm run build && npm version patch && npm publish --access public"
+    "ship": "npm run build && npm version patch && npm publish --access public && git push"
   },
   "author": "imacodr",
   "license": "ISC",
