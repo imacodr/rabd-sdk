@@ -125,4 +125,6 @@ const rabdSDK = {
   },
 };
 
+module.exports = rabdSDK;
+
 export default rabdSDK;
