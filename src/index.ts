@@ -88,7 +88,7 @@ const rabdSDK = {
           );
         }
         return fetchApi({
-          endpoint: `get-licences`,
+          endpoint: `get-licenses`,
           method: "POST",
           body: {
             robloxid: robloxId,
@@ -111,7 +111,7 @@ const rabdSDK = {
           );
         }
         return fetchApi({
-          endpoint: `get-licence`,
+          endpoint: `get-license`,
           method: "POST",
           body: {
             robloxid: robloxId,
